@@ -1,0 +1,22 @@
+{
+  "name": "inspur-highlight",
+  "version": "1.0.0",
+  "description": "use prismjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyanq528/inspur-highlight.git"
+  },
+  "keywords": [
+    "highlight"
+  ],
+  "author": "mrli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyanq528/inspur-highlight/issues"
+  },
+  "homepage": "https://github.com/liyanq528/inspur-highlight#readme"
+}
