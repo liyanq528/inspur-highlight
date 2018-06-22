@@ -1,6 +1,6 @@
 {
   "name": "inspur-highlight",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "use prismjs",
   "main": "inspur.highlight.module.ts",
   "scripts": {
@@ -17,6 +17,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liyanq528/inspur-highlight/issues"
+  },
+  "dependencies": {
+     "inspurprism": "^1.0.0"
   },
   "peerDependencies": {
     "@angular/core": "^5.0.0"
