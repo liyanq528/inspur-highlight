@@ -1,6 +1,6 @@
 {
   "name": "inspur-highlight",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "use prismjs",
   "main": "inspur.highlight.module.ts",
   "scripts": {
